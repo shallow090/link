@@ -2,6 +2,8 @@
 
 a Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls. see the Bot in Action [@BypassLinkBot](https://t.me/BypassLinkBot) or try it on [Replit](https://replit.com/@bipinkrish/Link-Bypasser#app.py)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/zN7yap)
+
 ---
 
 ## Required Variables
